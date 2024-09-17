@@ -1,4 +1,4 @@
-namespace NoteApp.Models
+namespace SnapNote.Models
 {
     public class User
     {

@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SnapNote")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0558ba265fa9bdd051118992edf4cb654e781379")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8090e442991325b3a4025a120bdf9ba725fd4c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SnapNote")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SnapNote")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

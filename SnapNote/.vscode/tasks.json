@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/NoteApp.csproj"
+                "${workspaceFolder}/SnapNote.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

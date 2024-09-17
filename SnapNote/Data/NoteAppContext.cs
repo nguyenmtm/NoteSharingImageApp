@@ -1,11 +1,11 @@
-// Data/NoteAppContext.cs
+// Data/SnapNoteContext.cs
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using NoteApp.Models;
+using SnapNote.Models;
 
-public class NoteAppContext : IdentityDbContext
+public class SnapNoteContext : IdentityDbContext
 {
-    public NoteAppContext(DbContextOptions<NoteAppContext> options)
+    public SnapNoteContext(DbContextOptions<SnapNoteContext> options)
         : base(options)
     {
     }

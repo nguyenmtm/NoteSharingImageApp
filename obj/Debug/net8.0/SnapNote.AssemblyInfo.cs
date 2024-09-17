@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SnapNote")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f57e06fe1c1e9d11412c70ff656b8fecd4b24c44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0558ba265fa9bdd051118992edf4cb654e781379")]
 [assembly: System.Reflection.AssemblyProductAttribute("SnapNote")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SnapNote")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

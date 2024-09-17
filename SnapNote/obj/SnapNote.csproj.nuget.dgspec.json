@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Michael\\Documents\\GitHub\\SnapNote\\SnapNote\\SnapNote.csproj": {}
+    "/Users/selmersolland/Documents/SnapNote/SnapNote/SnapNote.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Michael\\Documents\\GitHub\\SnapNote\\SnapNote\\SnapNote.csproj": {
+    "/Users/selmersolland/Documents/SnapNote/SnapNote/SnapNote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Michael\\Documents\\GitHub\\SnapNote\\SnapNote\\SnapNote.csproj",
+        "projectUniqueName": "/Users/selmersolland/Documents/SnapNote/SnapNote/SnapNote.csproj",
         "projectName": "SnapNote",
-        "projectPath": "C:\\Users\\Michael\\Documents\\GitHub\\SnapNote\\SnapNote\\SnapNote.csproj",
-        "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Michael\\Documents\\GitHub\\SnapNote\\SnapNote\\obj\\",
+        "projectPath": "/Users/selmersolland/Documents/SnapNote/SnapNote/SnapNote.csproj",
+        "packagesPath": "/Users/selmersolland/.nuget/packages/",
+        "outputPath": "/Users/selmersolland/Documents/SnapNote/SnapNote/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Michael\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/selmersolland/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

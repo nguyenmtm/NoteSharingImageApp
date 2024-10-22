@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SnapNote
 build_property.RootNamespace = SnapNote
-build_property.ProjectDir = /Users/selmersolland/Documents/SnapNote/SnapNote/
+build_property.ProjectDir = /Users/selmersolland/Documents/GitHub/SnapNote/SnapNote/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/selmersolland/Documents/SnapNote/SnapNote
+build_property.MSBuildProjectDirectory = /Users/selmersolland/Documents/GitHub/SnapNote/SnapNote
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/selmersolland/Documents/SnapNote/SnapNote/Views/Home/Index.cshtml]
+[/Users/selmersolland/Documents/GitHub/SnapNote/SnapNote/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/selmersolland/Documents/SnapNote/SnapNote/Views/Home/Privacy.cshtml]
+[/Users/selmersolland/Documents/GitHub/SnapNote/SnapNote/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/selmersolland/Documents/SnapNote/SnapNote/Views/Shared/Error.cshtml]
+[/Users/selmersolland/Documents/GitHub/SnapNote/SnapNote/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/selmersolland/Documents/SnapNote/SnapNote/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/selmersolland/Documents/GitHub/SnapNote/SnapNote/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/selmersolland/Documents/SnapNote/SnapNote/Views/_ViewImports.cshtml]
+[/Users/selmersolland/Documents/GitHub/SnapNote/SnapNote/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/selmersolland/Documents/SnapNote/SnapNote/Views/_ViewStart.cshtml]
+[/Users/selmersolland/Documents/GitHub/SnapNote/SnapNote/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/selmersolland/Documents/SnapNote/SnapNote/Views/Shared/_Layout.cshtml]
+[/Users/selmersolland/Documents/GitHub/SnapNote/SnapNote/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xthw366ohr
